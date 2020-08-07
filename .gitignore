@@ -5,13 +5,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-Flappy Bird Dilo/[Ll]ibrary/
-Flappy Bird Dilo/[Tt]emp/
-Flappy Bird Dilo/[Oo]bj/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
 # /[Bb]uild/
-/Flappy Bird Dilo/[Bb]uilds/
-/Flappy Bird Dilo/[Ll]ogs/
-/Flappy Bird Dilo/[Uu]ser[Ss]ettings/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
